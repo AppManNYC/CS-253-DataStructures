@@ -1,6 +1,6 @@
 /*      Created By:         Matthew A. Krieger
  *      Date:               October 04, 2015
- *      Assignment:         Homework II  
+ *      Assignment:         Homework I  
  */
 
 import java.util.*;
